@@ -2,7 +2,8 @@
 
 
 
-# Defining A Delegate In CSharp
+#Defining A DelegateIn CSharp
+
 
 delegate void my_Delegate();                  //declaration of a Delegate
 my_Delegate my_variable;                      //declaration of a Delegate variable
