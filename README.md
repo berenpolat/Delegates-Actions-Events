@@ -2,7 +2,7 @@
 
 
 
-#Defining A DelegateIn CSharp
+#Defining A Delegate In CSharp
 
 
 delegate void my_Delegate();                  //declaration of a Delegate
